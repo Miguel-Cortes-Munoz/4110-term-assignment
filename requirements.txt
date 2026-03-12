@@ -1,1 +1,6 @@
 pulp>=2.9.0
+osmnx>=1.9.0
+networkx>=3.0
+pandas
+matplotlib>=3.7.0
+tqdm
